@@ -1,0 +1,256 @@
+*{
+  scrollbar-width: thin;
+  scrollbar-color: #1b5d88 #0c232c;
+  font-family: 'Inter', sans-serif;
+}
+
+div#logo{
+  color: #1b5d88;
+  font-weight: bold;
+}
+
+html {
+  background-color: #08161c !important;
+  height: 100%;
+}
+
+.App___StyledDiv-sc-2l91w7-0.fnfeQw{
+  background-color: #08161c !important;
+  height: 100%;
+}
+
+/* Common styles for elements with the class GreyRowBox-sc-1xo9c6v-0 */
+a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D {
+  background-color: #0c232c;
+  color: #1b5d88;
+  border-radius: 8px;
+  padding: 12px;
+  font-weight: bold;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+div.w-full.bg-neutral-900.shadow-md.overflow-x-auto{
+  background-color: #08161c;
+}
+
+a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D.fRwFrz.DashboardContainer___StyledServerRow-sc-1topkxf-2 {
+  background-color: #0c232c;
+  background-size: cover;
+}
+
+a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D.fwbDSe.DashboardContainer___StyledServerRow-sc-1topkxf-2.jbVWLN {
+  background-color: #0c232c;
+  background-size: cover;
+}
+
+a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D:hover {
+  background-color: #1b5d88;
+}
+
+/* Hover styles for links with class style-module_1WqkLT9X */
+.style-module_1WqkLT9X{
+  background-color: #0c232c !important;
+}
+
+.CodeMirror{
+  background-color: #061a1f !important;
+}
+
+.grid.grid-cols-6{
+  background-color: #transparent !important;
+}
+
+a.style-module_1WqkLT9X:hover {
+  background-color: #1b5d88 !important;
+}
+
+/* Additional styles for input fields */
+input.Input-sc-19rce1w-0.jqTCDz.cursor-pointer,
+input.Input-sc-19rce1w-0.jqTCDz {
+  background-color: #030b0c;
+  border: 1px solid #c5cdce;
+  color: #c5cdce;
+  padding: 12px;
+}
+
+/* Background styles for various elements */
+div.SubNavigation-sc-lfuaoi-0.jZPsWO,
+div.style-module_2Vp6MaXq.bg-gray-600.cursor-pointer,
+div.style-module_2Vp6MaXq.bg-gray-600,
+div.style-module_2XbmHEcn.group,
+div.icon.mr-4,
+div.GreyRowBox-sc-1xo9c6v-0.iTERJN.flex-wrap.md\:flex-nowrap.mt-2,
+div.TitledGreyBox___StyledDiv3-sc-gvsoy-4.fKIIIQ,
+div.grid.grid-cols-10.py-4.border-b-2.border-gray-800.last\:rounded-b.last\:border-0.group,
+div.TitledGreyBox___StyledDiv2-sc-gvsoy-1.jRrWLs,
+div.SubNavigation-sc-lfuaoi-0.jZPsWO,
+div.ContentBox___StyledDiv-sc-mjlt6f-2.iGOcRf,
+div.Modal___StyledDiv2-sc-9vzni8-3.ekHIsr,
+div.EditScheduleModal___StyledDiv2-sc-wh9db9-4.fhEpAC,
+div.EditScheduleModal___StyledDiv4-sc-wh9db9-6.jyDDEO,
+div.EditScheduleModal___StyledDiv5-sc-wh9db9-7.ueIjC,
+a.GreyRowBox-sc-1xo9c6v-0.ScheduleContainer___StyledGreyRowBox-sc-dlqnx9-2.dyLna-D.bppajE,
+div.GreyRowBox-sc-1xo9c6v-0.UserRow___StyledGreyRowBox-sc-hg2wjz-0.dyLna-D.dmlaEn,
+div.CreateBackupButton___StyledDiv2-sc-da8bqw-3.eDncUf,
+textarea.Input__Textarea-sc-19rce1w-1.kKFWRA,
+div.flex.justify-end.space-x-4.mt-4.w-full.md\:mt-0.md\:w-48,
+select.Select-sc-17exaqp-0.dupyoa,
+a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D,
+label.PermissionRow__Container-sc-1h899cn-0.icxFlO:hover,
+div.style-module_1DtraXMW.bg-gray-700,
+input.Input-sc-19rce1w-0.jqTCDz {
+  background-color: #0c232c;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Use primary and secondary colors */
+div.SubNavigation-sc-lfuaoi-0.jZPsWO,
+div.TitledGreyBox___StyledDiv2-sc-gvsoy-1.jRrWLs,
+
+.TitledGreyBox___StyledDiv-sc-gvsoy-0{
+  background-color: transparent !important;
+  border-radius: 8px;
+}
+
+.Button__ButtonStyle-sc-1qu1gou-0{
+  background-color: #030b0c !important;
+  border: 1px solid #1b5d88;
+  padding: 12px;
+  border-radius: 8px;
+  color: #1b5d88 !important;
+}
+
+.style-module_1n_DiqmT{
+  background-color: #011513 !important;
+}
+
+.module_4LBM1DKx {
+  background-color: #011513 !important;
+  border-radius: 8px;
+}
+
+.style-module_4LBM1DKx{
+  background-color: #061a1f !important;
+}
+
+div.grid.grid-cols-6.gap-2.md:gap-4.col-span-4.lg:col-span-1.order-last.lg:order-none{
+  background-color: #transparent !important;
+}
+
+div.SubNavigation-sc-lfuaoi-0.jZPsWO.fade-appear-done.fade-enter-done{
+  background-color: #030b0c !important;
+}
+
+.FileDropdownMenu___StyledDiv-sc-17ln8oh-3{
+  background-color: #0c232c !important;
+}
+
+.style-module_35MPv1CD{
+  background-color: #0c232c !important;
+}
+
+.peer{
+  background-color: #0c232c !important;
+}
+
+.xterm-viewport{
+  background-color: #011513 !important;
+}
+
+.xterm-screen{
+  background-color: #011513 !important;
+}
+
+.Label-sc-g780ms-0{
+  background-color: #0c232c !important;
+}
+
+.bg-gray-700{
+  background-color: #030b0c !important;
+}
+
+.Input-sc-19rce1w-0.jqTCDz{
+  background-color: #061a1f !important;
+}
+
+.CodeMirror-gutter.CodeMirror-foldgutter{
+  background-color: #081126 !important;
+}
+
+.CodeMirror-overlayscroll-vertical{
+  background-color: #081126 !important;
+}
+
+.CodeMirror-linenumber{
+  background-color: #061a1f !important;
+}
+
+.CodeMirror-gutter-elt{
+  background-color: #061a1f !important;
+}
+
+.CodeMirror-gutter.CodeMirror-linenumbers{
+  background-color: #061a1f !important;
+}
+
+.Button___StyledSpan-sc-1qu1gou-2{
+  background-color: #030b0c !important;
+  color: #c5cdce !important;
+}
+
+.CodeMirror-gutter.CodeMirror-foldgutter{
+  background-color: #061a1f !important;
+}
+
+div.style-module_2XbmHEcn.group,
+div.icon.mr-4,
+div.TitledGreyBox___StyledDiv3-sc-gvsoy-4.fKIIIQ,
+div.ContentBox___StyledDiv-sc-mjlt6f-2.iGOcRf,
+div.Modal___StyledDiv2-sc-9vzni8-3.ekHIsr,
+div.EditScheduleModal___StyledDiv2-sc-wh9db9-4.fhEpAC,
+div.EditScheduleModal___StyledDiv4-sc-wh9db9-6.jyDDEO,
+div.EditScheduleModal___StyledDiv5-sc-wh9db9-7.ueIjC,
+a.GreyRowBox-sc-1xo9c6v-0.ScheduleContainer___StyledGreyRowBox-sc-dlqnx9-2.dyLna-D.bppajE,
+div.GreyRowBox-sc-1xo9c6v-0.UserRow___StyledGreyRowBox-sc-hg2wjz-0.dyLna-D.dmlaEn,
+div.CreateBackupButton___StyledDiv2-sc-da8bqw-3.eDncUf,
+textarea.Input__Textarea-sc-19rce1w-1.kKFWRA,
+select.Select-sc-17exaqp-0.dupyoa,
+label.PermissionRow__Container-sc-1h899cn-0.icxFlO:hover,
+div.style-module_1DtraXMW.bg-gray-700 {
+  background-color: #0c232c;
+}
+
+.TitledGreyBox___StyledDiv-sc-gvsoy-0{
+  background-color: transparent !important;
+}
+
+.TitledGreyBox___StyledDiv-sc-gvsoy-0.oLbNP.StartupContainer___StyledTitledGreyBox-sc-163imy2-1.kRunTE{
+  background-color: transparent !important;
+}
+
+button.style-module_4LBM1DKx.style-module_3kBDV_wo.style-module_2vOYXZWm.flex-1{
+  background-color: #e01f3c !important;
+  color: #c5cdce !important;
+}
+
+button.style-module_4LBM1DKx.style-module_3kBDV_wo.style-module_Yp7-2Fw-.flex-1{
+  background-color: #406fba !important;
+  color: #c5cdce !important;
+}
+
+button.style-module_4LBM1DKx.style-module_3kBDV_wo.flex-1{
+  background-color: #3b8609 !important;
+  color: #c5cdce !important;
+}
+
+.ScheduleRow___StyledP3-sc-iuk2mh-5.joxWZp{
+  background-color: #3b8609 !important;
+  color: #c5cdce !important;
+}
+
+
